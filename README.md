@@ -182,12 +182,7 @@ Modernize legacy PHP systems using Go microservices and modern frontend framewor
 # 💡 Engineering Philosophy | エンジニアとして大切にしていること
 
 🇺🇸
-
-> Build software that creates real value.
-
 I believe software should be maintainable, scalable, and easy to understand.
-
-I value:
 
 - Clean Architecture
 - Readable Code
@@ -198,11 +193,6 @@ I value:
 ---
 
 🇯🇵
-
-> 「価値あるソフトウェアを作る」
-
-私は、
-
 - 保守性
 - 拡張性
 - 可読性
