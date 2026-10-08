@@ -22,7 +22,7 @@ My expertise covers backend development using **PHP, Go, and Python**, modern fr
 PHP・Go・Pythonを中心としたバックエンド開発を得意とし、React・Next.js・TypeScriptを用いたモダンフロントエンド開発にも対応しています。
 
 Recently, I have been actively utilizing AI development tools such as **Claude Code**, **Cursor**, and **ChatGPT API** to improve development speed, software quality, and engineering productivity.<br>
-近年では **Claude Code・Cursor・ChatGPT API** を活用したAI開発を積極的に取り入れ、開発スピード・品質・生産性の向上に取り組んでいます。
+最近年では **Claude Code・Cursor・ChatGPT API** を活用したAI開発を積極的に取り入れ、開発スピード・品質・生産性の向上に取り組んでいます。
 
 I enjoy learning new technologies and building software that solves real-world problems.<br>
 新しい技術を学びながら、「価値のあるソフトウェアを作ること」を大切にしています。
