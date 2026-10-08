@@ -5,7 +5,7 @@
 ### Full Stack Engineer | Backend Specialist | AI-Assisted Developer
 
 <p>
-Building reliable systems with modern technologies and AI.
+Building reliable systems with modern technologies and AI.<br>
 モダンな技術とAIを活用し、価値あるシステムを開発するフルスタックエンジニアです。
 </p>
 
@@ -17,16 +17,16 @@ Building reliable systems with modern technologies and AI.
 
 🇺🇸 **English**
 
-I'm a Full Stack Engineer with **6+ years of experience** in web application and enterprise system development.
+I'm a Full Stack Engineer with **6+ years of experience** in web application and enterprise system development.<br>
 私は約 **6年間**、Webシステム・業務システム開発に携わってきたフルスタックエンジニアです。
 
-My expertise covers backend development using **PHP, Go, and Python**, modern frontend development with **React / Next.js / TypeScript**, REST API design, database architecture, and cloud-based system development.
+My expertise covers backend development using **PHP, Go, and Python**, modern frontend development with **React / Next.js / TypeScript**, REST API design, database architecture, and cloud-based system development.<br>
 PHP・Go・Pythonを中心としたバックエンド開発を得意とし、React・Next.js・TypeScriptを用いたモダンフロントエンド開発にも対応しています。
 
-Recently, I have been actively utilizing AI development tools such as **Claude Code**, **Cursor**, and **ChatGPT API** to improve development speed, software quality, and engineering productivity.
+Recently, I have been actively utilizing AI development tools such as **Claude Code**, **Cursor**, and **ChatGPT API** to improve development speed, software quality, and engineering productivity.<br>
 近年では **Claude Code・Cursor・ChatGPT API** を活用したAI開発を積極的に取り入れ、開発スピード・品質・生産性の向上に取り組んでいます。
 
-I enjoy learning new technologies and building software that solves real-world problems.
+I enjoy learning new technologies and building software that solves real-world problems.<br>
 新しい技術を学びながら、「価値のあるソフトウェアを作ること」を大切にしています。
 
 ---
@@ -85,28 +85,28 @@ I enjoy learning new technologies and building software that solves real-world p
 
 ### 🚀 Full Stack Development
 
-Develop complete web applications from requirements analysis to deployment.
+Develop complete web applications from requirements analysis to deployment.<br>
 要件定義から設計・開発・テスト・運用まで一貫して対応できます。
 
 ---
 
 ### ⚡ Backend Engineering
 
-Design scalable APIs and optimize application performance.
+Design scalable APIs and optimize application performance.<br>
 拡張性の高いAPI設計とパフォーマンス改善を得意としています。
 
 ---
 
 ### 🤖 AI Integration
 
-Implement AI-powered features using ChatGPT API, Claude, Cursor, RAG, and ChromaDB.
+Implement AI-powered features using ChatGPT API, Claude, Cursor, RAG, and ChromaDB.<br>
 ChatGPT API・Claude・Cursor・RAG・ChromaDBを活用したAI機能の実装経験があります。
 
 ---
 
 ### 🔧 Legacy Modernization
 
-Modernize legacy PHP systems using Go microservices and modern frontend frameworks.
+Modernize legacy PHP systems using Go microservices and modern frontend frameworks.<br>
 既存PHPシステムをGoやReactを用いて段階的にモダン化した経験があります。
 
 ---
@@ -140,7 +140,7 @@ I believe software should be maintainable, scalable, and easy to understand.
 
 ### ご覧いただきありがとうございます！
 
-⭐ Feel free to follow me or collaborate on exciting projects.
+⭐ Feel free to follow me or collaborate on exciting projects.<br>
 
 ⭐ 一緒に面白いプロジェクトを作りましょう！
 
