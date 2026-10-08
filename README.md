@@ -15,8 +15,6 @@ Building reliable systems with modern technologies and AI.<br>
 
 # 🌎 About Me | 自己紹介
 
-🇺🇸 **English**
-
 I'm a Full Stack Engineer with **6+ years of experience** in web application and enterprise system development.<br>
 私は約 **6年間**、Webシステム・業務システム開発に携わってきたフルスタックエンジニアです。
 
